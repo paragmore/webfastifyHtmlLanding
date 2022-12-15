@@ -73,7 +73,6 @@ $(".contact_btn").on('click', function () {
                 }
             },
             error: function () {
-                alert("Failer");
             }
         });
 
@@ -177,7 +176,6 @@ $(".modal_contact_btn").on('click', function () {
                 // $(".modal_contact_btn i").addClass('d-none');
             },
             error: function () {
-                alert("Failer");
             }
         });
 
